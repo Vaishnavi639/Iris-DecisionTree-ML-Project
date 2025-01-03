@@ -63,5 +63,11 @@ y_encoded = label_encoder.fit_transform(data['species'])
 ```
 
 
+# Author
+Your Name Vaishnavi Pangare
+GitHub: https://github.com/Vaishnavi639
+
+# Collaborations
+This project is open to collaborations! 
 
 
